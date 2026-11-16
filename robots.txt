@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://waterlooelectricalpros.ca/sitemap-index.xml
